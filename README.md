@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fillottani
 - 👀 I’m a PhD Student @ DIEF (UniMore)
 - 🌱 I'm working on biochar, carbon capture and storage techs, gasification with focus on tar and biochar production.
-- I love my photocamera but I hate post-pro with lightroom, I love techonology and the opportunities that it gives. 
+- I love my photocamera but I hate post-pro, I love techonology and the opportunities that it gives. 
 - 📫 filippo.ottani@unimore.it | filippo.ottani@gmail.com 
 
 <!---
